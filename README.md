@@ -3,6 +3,7 @@
 Contains code for SingleCellExperiment pipleline used to analyse CD4+ T cells. Selection of CD4+ cells is described in https://github.com/VanAndelInstitute/chat_paper/blob/master/analysis.Rmd.
 
 Content:
+
 CHAT_A:
   1) Loading data;
   2) Selection of genes and cells for downstream analysis;
